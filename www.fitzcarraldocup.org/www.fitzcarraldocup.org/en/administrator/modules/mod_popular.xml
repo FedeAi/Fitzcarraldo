@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module">
+	<name>Popular Items</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Questo modulo mostra una lista degli articoli più letti. (alcuni possono essere scaduti e sono visibili anche se non sono i più recenti). Gli articoli che vengono mostrati in prima pagina non sono inclusi nella lista.</description>
+	<files>
+		<filename module="mod_popular">mod_popular.php</filename>
+	</files>
+	<params/>
+</mosinstall>

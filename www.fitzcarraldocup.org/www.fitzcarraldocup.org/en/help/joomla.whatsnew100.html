@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US" xml:lang="en_US">
+<head>
+<title>00-Novit&agrave; Versione 1.0.8</title>
+<link href="css/help.css" rel="stylesheet" type="text/css" />
+<meta name="copyright" content="(C) 2005 Open Source Matters. All rights reserved." />
+<meta name="license" content="http://www.gnu.org/copyleft/gpl.html GNU/GPL" />
+</head>
+<body>
+
+<h1>Novit&agrave; della versione 1.0.8</h1>
+
+<p>Riportiamo di seguito le caratteristiche salienti della versione di debutto
+  di Joomla!. I confronti vengono effettuati riferendosi alla versione 4.5.2.3
+  di Mambo in modo da evidenziare i cambiamenti ed i miglioramenti introdotti.
+  <br />
+</p>
+ <h3>Correzione Errori</h3>
+ <p>A questa versione sono state apportate diverse correzioni critiche:</p>
+
+
+<ul>
+  <li>E' ora possibile collegarsi correttamente a diversi siti anche se essi condividono
+    lo stesso dominio e sono organizzati in sottodirettrici. </li>
+  <li>Sono state apportate correzioni al modulo di Gestione Utente per risolvere
+    un problema relativo alla lentezza delle queries; un problema particolarmente
+    evidente nei siti aventi migliaia di utenti registrati. Inoltre gli utenti
+    aventi profilo Registered (quindi senza privilegi di scrittura dei contenuti)
+    vengono adesso esclusi dalla lista degli utenti aventi profilo Author, lista
+    che viene visualizzata nelle pagine di digitazione dei contenuti. </li>
+  <li>Sono stati corretti riferimenti a variabili che causavano problemi a livello
+    di PHP 4.4.<br />
+  </li>
+</ul>
+<p>Per ulteriori informazioni occorre fare riferimento al file denominato CHANGELOG.php
+  .</p>
+<p>&nbsp;</p>
+<h3>Correzioni in materia di Sicurezza</h3>
+<p>In questa versione sono stati corretti diversi problemi di vulnerabilit&agrave;:</p>
+<ul>
+
+  <li>Patch per vulnerabilit&agrave; presente in $GLOBALS.</li>
+  <li>Note vulnerabilit&agrave; presenti nella classe phpMailer.</li>
+  <li>Vulnerabilit&agrave; SQL generabile attraverso la funzionalit&agrave; di
+    attivazione Utente.</li>
+  <li>Vulnerabilit&agrave; SQL generabile attraverso il componente Sondaggi. </li>
+  <li>Conversione in linguaggio php dei files tipo Changelog in modo da renderli
+    non direttamente visibili. </li>
+  <li>Il form di segnalazione &quot;Email from Friend&quot; &egrave; stato blindato
+    per ridurre il rischio di un suo uso improprio come porta di ingresso per
+    diffondere spam.</li>
+  <li>Il parametro mosGetParam &egrave; stato blindato utilizzando phpInputFilter
+    in modalit&agrave; NO_HTML </li>
+  <li>E' stata realizzata una versione alternativa al file globals.php. Se il
+    file globals.php-off viene rinominato in globals.php Joomla! provveder&agrave;
+    ad emulare il settaggio php di register_globals=off. Un settaggio che pu&ograve;
+    fornire un certo livello di protezione contro alcuni tipi di attacchi maligni
+    ma che allo stesso tempo pu&ograve; determinare malfunzionamenti in alcune
+    applicazioni di terze parti. </li>
+</ul>
+<p>&nbsp;</p>
+<h3> Joomla! Sito pubblico</h3>
+<ul>
+  <li>&nbsp;Il sito &egrave; ora visualizzabile dagli Amministratori anche nel
+    caso in cui il sito sia offline.<br />
+  </li>
+  <li>Gli utenti del sito possono ora selezionarsi il proprio editor wysiwyg desiderato
+    senza dover necessariamente utilizzare quello proposto di default. </li>
+</ul>
+
+<p>&nbsp;</p>
+ <h3>&nbsp;Joomla! Amministrazione<br />
+</h3>
+<ul>
+  <li>Il link Informazioni Sistema &egrave; stato aggiunto nel Menu Sistema.<br />
+  </li>
+  <li>&quot;Forza il logout&quot; presente nella barra degli strumenti Gestione
+    Utenti &egrave; stato rinominato semplicemente in &quot;Logout&quot;. </li>
+  <li>&quot;Invia - Contenuto&quot; &egrave; ora disponibile come un nuovo tipo
+    di menu. </li>
+  <li>L'output HTML viene ora bufferizzato al fine di migliorarne i tempi di risposta
+    nelle procedure tipiche di non visualizzazione (ad es. come nel salvataggio
+    di contenuti).</li>
+  <li>Gli utenti possono selezionare l'editor wysiwyg che desiderano senza dover
+    necessariamente utilizzare quello pre-impostato di default. </li>
+  <li>Componente Contatti: aggiunto un parametro che consente di definire la categoria
+    per un menu contatti.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>Supporto Lingua&nbsp;</h3>
+<p>&nbsp;Sono stati effettuati diversi piccoli interventi volti ad agevolare l'uso
+  di Mambelfish.</p>
+ <p>&nbsp;</p>
+ <h3>Templates&nbsp;</h3>
+<p>Il template Solar Flare 2 &egrave; stato aggiornato con un nuovo nome. Andy
+  Miller ha unito le sue forze a quelle di Robert Deutz per sviluppare un nuovo
+  sbalorditivo Template di Amministrazione per Joomla!&nbsp;</p>
+<p>Le icone strumenti presenti nella barra strumenti di Amministrazione sono ora
+  a colori, invece dei precedenti livelli di grigio (che indicano normalmente
+  di non essere disponibili).</p>
+<p>&nbsp;</p>
+ <h3>Varie</h3>
+
+<ul>
+  <li>E' stato aggiunto un pulsante &quot;Riprova&quot; nella prima pagina per
+    l'installazione del sito. &nbsp;</li>
+</ul>
+
+<p>&nbsp;</p>
+ <h3>Supporto a MySQL 4.1.x<br />
+ </h3>
+<p>Joomla! supporter&agrave; PHP 5 e MySQL 4.1. Viene comunque allegato nella
+  direttrice \includes un file di database alternativo; basta sovrascrivere semplicemente
+  il file database.php con il file database.mysqli.php. E' poi possibile utilizzare
+  normalmente la procedura guidata d'installazione sito per installare Joomla!.<br />
+</p>
+ <h3>Aggiornamenti Librerie</h3>
+ <p>&nbsp;Sono state aggiornate le seguenti librerie di sviluppo:</p>
+
+ <ul>
+<li>patTemplate (questa versione supporta ora i  short tag modifiers)</li>
+
+<li>Overlib</li>
+<li>TinyMCE</li>
+
+<li>Walter Zorn tooltips</li>
+
+<li>JSCookMenu</li>
+<li>DOMIT!</li>
+
+<li>DOMIT! RSS<br />
+  </li>
+</ul>
+
+<p>&nbsp;</p>
+ <h3>Usabilit&agrave; e Accessibilit&agrave;</h3>
+
+<p>Un'enorme sforzo &egrave; in corso per adeguare Joomla! agli standard web in
+  merito all'usabilit&agrave; e accessibilit&agrave;. Anche se sar&agrave; fatto
+  molto di pi&ugrave; nelle versioni future, in questa versione sono gi&agrave;
+  stati effettuati i primi passi per raggiungere questo obiettivo:</p>
+
+
+<ul>
+  <li>Sono stati aggiunti Label tags al modulo e al componente di output del Sito
+  </li>
+  <li>mosHTML::selectList e mosHTML::radioList provvedono automaticamente a generare
+    i label tags corretti</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h3>Informazioni aggiuntive per gli Sviluppatori</h3>
+<p>Un buon numero di novit&agrave; sono disponibili per gli sviluppatori. Queste
+  includono:</p>
+
+
+<ul>
+  <li>La classe patHTML fornisce varie opzioni per utilizzare le liste di selezione.
+  </li>
+  <li>La classe mosAbstractTasker provvede ora a mappare automaticamente i metodi
+    pubblici ai tasks . </li>
+  <li>Il metodo setTemplateVars &egrave; stato aggiunto in entrambe le classi
+    per la navigazione pagine Sito e Amministrazione. </li>
+  <li>La funzione mosHash fornisce un metodo conveniente per produrre hashes sicuri.
+  </li>
+  <li>Un &lt;span class=&quot;article_separator&quot;&gt;&lt;/span&gt; separa
+    ora gli articoli nelle liste.</li>
+  <li>E' stato aggiunto mosParameter::_mos_filelist ai parametri supportXML.</li>
+  <li>I file Parameter possono ora usare l'elemento root &lt;mosparams&gt;. Ci&ograve;
+    consente di avere pi&ugrave; di un file di parametri XML nei file di installazione
+    componenti. </li>
+  <li>Sono stai inclusi un certo numero di mambot triggers: onStart, onAfterMainframe.</li>
+  <li>Sono state aggiunte un certo numero di nuove icone strumenti . </li>
+  <li>Il metodo mosToolBar::help supporta ora correttamente files locali di help
+    nella direttrice /help dei componenti. </li>
+  <li>E' stato aggiunto il metodo mosDBTable::isCheckedOut </li>
+  <li>Sono stati aggiunti gli stili CSS al template di amministrazione per garantire
+    il supporto ai layout di pagina<br />
+    tipo Joomla! 1.1 (tipo Mambo 4.5.3).</li>
+  <li>E' stata aggiunta la libreria javascript dTree.</li>
+  <li>database:setQuery ora accetta parametri relativi a query limit offset e
+    numero di records da restituire.</li>
+</ul>
+<p>&nbsp;</p>
+<p><br />
+</p>
+<h3>&nbsp;Compatibilit&agrave;</h3>
+<p>Abbiamo fatto del nostro meglio per rendere questa versione compatibile verso
+  il passato con Mambo 4.5.2.3 ma vi sono stati alcuni cambiamenti che potrebbero
+  influire su un ristretto numero di addon. Gli sviluppatori di addons per Mambo
+  (e a breve gli sviluppatori Joomla!) devono quindi porre particolare attenzione
+  ai seguenti punti:<br />
+  <br />
+</p>
+<ul>
+  <li>I parametri di patTemplate::createTemplate sono stati modificati.</li>
+  <li>database: i parametri setQuery sono cambiati, ma si ritiene improbabile
+    che possano influire nella maggior parte dei siti attivi.<br />
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

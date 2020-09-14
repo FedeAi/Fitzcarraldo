@@ -1,0 +1,911 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>Sir Peter Blake 2009 - Galleria di foto</sitename>
+	<photographer></photographer>
+	<contactinfo>Per avere una copia delle foto, rivolgersi a Edith</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DS01.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS01.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS02.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS02.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS03.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS03.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS04.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS04.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS05.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS05.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS06.jpg"
+width = "362"
+height = "500"
+thumbpath = "DS06.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS07.jpg"
+width = "362"
+height = "500"
+thumbpath = "DS07.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS08.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS08.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS09.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS09.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS10.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS10.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS11.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS11.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS12.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS12.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS13.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS13.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS14.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS14.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS15.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS15.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS16.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS16.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS17.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS17.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS18.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS18.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS19.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS19.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS20.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS20.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS21.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS21.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS22.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS22.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS23.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS23.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS24.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS24.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS25.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS25.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS26.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS26.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS27.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS27.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS28.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS28.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS29.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS29.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS30.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS30.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS31.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS31.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS32.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS32.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS33.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS33.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS34.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS34.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS35.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS35.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS36.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS36.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS37.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS37.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS38.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS38.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS39.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS39.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS40.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS40.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS41.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS41.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS42.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS42.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS43.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS43.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS44.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS44.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS45.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS45.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS46.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS46.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS47.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS47.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS48.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS48.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS49.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS49.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS50.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS50.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS51.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS51.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS52.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS52.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS53.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS53.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS54.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS54.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS55.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS55.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS56.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS56.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS57.jpg"
+width = "366"
+height = "550"
+thumbpath = "DS57.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS58.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS58.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS59.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS59.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS60.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS60.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS61.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS61.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS62.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS62.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS63.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS63.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS64.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS64.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS65.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS65.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS66.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS66.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS67.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS67.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS68.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS68.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS69.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS69.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS70.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS70.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS71.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS71.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS72.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS72.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS73.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS73.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS74.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS74.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS75.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS75.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS76.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS76.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS77.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS77.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS78.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS78.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS79.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS79.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS80.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS80.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS81.jpg"
+width = "476"
+height = "550"
+thumbpath = "DS81.jpg"
+thumbwidth = "64"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS82.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS82.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS83.jpg"
+width = "544"
+height = "550"
+thumbpath = "DS83.jpg"
+thumbwidth = "75"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS84.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS84.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS85.jpg"
+width = "541"
+height = "550"
+thumbpath = "DS85.jpg"
+thumbwidth = "73"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS86.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS86.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DS87.jpg"
+width = "550"
+height = "366"
+thumbpath = "DS87.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "DS88.jpg"
+width = "392"
+height = "550"
+thumbpath = "DS88.jpg"
+thumbwidth = "53"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DS89.jpg"
+width = "550"
+height = "412"
+thumbpath = "DS89.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

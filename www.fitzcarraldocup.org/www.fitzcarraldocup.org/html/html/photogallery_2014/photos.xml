@@ -1,0 +1,341 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "24/08/2014">
+	<sitename>Galleria di foto per Web</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_2890.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2890.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2910.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2910.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2912.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2912.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2916.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2916.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2925.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2925.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2931.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2931.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2935.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2935.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2936.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2936.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2938.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2938.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2939.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2939.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2940.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2940.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2942.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2942.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2943.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2943.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2946.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2946.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2947.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2947.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2948.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2948.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2949.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2949.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2951.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2951.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2956.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2956.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2961.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2961.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2962.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2962.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2965.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2965.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2967.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2967.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2970.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2970.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2971.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2971.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_2974.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_2974.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3011.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3011.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3093.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3093.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3103.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3103.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3163.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3163.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3249.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3249.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_3253.JPG"
+width = "600"
+height = "400"
+thumbpath = "IMG_3253.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Main Menu</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Mostra una lista di voci di menu.</description>
+	<files>
+		<filename module="mod_mainmenu">mod_mainmenu.php</filename>
+	</files>
+		<params>
+		<param name="class_sfx" type="text" default="" label="Suffiso class CSS menu" description="Un uffisso può essere applicato alla classe CSS del menu" />
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class CSS modulo" description="Un suffisso alla classe CSS può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="menutype" type="mos_menu" default="" label="Tipo Menu" description="Il nome del menu (predefinito mainmenu)" />
+		<param name="menu_style" type="list" default="vert_indent" label="Stile Menu" description="Lo stile del menu">
+			<option value="vert_indent">Verticale</option>
+			<option value="horiz_flat">Orizzontale</option>
+			<option value="list_flat">Flat List</option>
+		</param>
+		<param name="cache" type="radio" default="0" label="Abilita Cache" description="Abilita Cache">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="menu_images" type="radio" default="0" label="Mostro Icone Menu" description="Mostra icone del menu selezionate per questa voce di menu">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="menu_images_align" type="radio" default="0" label="Allineamento Icone Menu" description="Allineamento delle icone del menu">
+			<option value="0">Sinistra</option>
+			<option value="1">Destra</option>
+		</param>
+		<param name="expand_menu" type="radio" default="0" label="Espandi Menu" description="Espandi il menu e i sub-menu sempre visibili">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="activate_parent" type="radio" default="0" label="Attiva parent" description="Setta attivazione id anche per i precedenti menu">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="indent_image" type="list" default="0" label="Immagini Indent" description="Scegli quale immagine indent utilizzare">
+			<option value="0">Template</option>
+			<option value="1">Immagini predefinite Joomla!</option>
+			<option value="2">Uso parametri seguenti</option>
+			<option value="3">Nessuna</option>
+		</param>
+		<param name="indent_image1" type="imagelist" directory="/images/M_images" default="" label="Indent Image 1" description="Immagine per il primo sottolivello" />
+		<param name="indent_image2" type="imagelist" directory="/images/M_images" default="" label="Indent Image 2" description="Immagine per il secondo sottolivello" />
+		<param name="indent_image3" type="imagelist" directory="/images/M_images" default="" label="Indent Image 3" description="Immagine per il terzo sottolivello" />
+		<param name="indent_image4" type="imagelist" directory="/images/M_images" default="" label="Indent Image 4" description="Immagine per il quarto sottolivello" />
+		<param name="indent_image5" type="imagelist" directory="/images/M_images" default="" label="Indent Image 5" description="Immagine per il quinto sottolivello" />
+		<param name="indent_image6" type="imagelist" directory="/images/M_images" default="" label="Indent Image 6" description="Immagine per il sesto sottolivello" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="spacer" type="text" default="|" size="5" label="Spazio" description="Spazio per menu orizzontali" />
+		<param name="end_spacer" type="text" default="|" size="5" label="Fine Spazio" description="Fine Spazio per menu orizzontali" />
+	</params>
+</mosinstall>

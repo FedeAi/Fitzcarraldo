@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Statistics</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Il modulo statistiche visualizza tutte le statistiche del nostro sito.</description>
+	<files>
+		<filename module="mod_stats">mod_stats.php</filename>
+	</files>
+	<params>
+		<param name="serverinfo" type="radio" default="0" label="Info Server" description="Mostra informazioni sul server">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="siteinfo" type="radio" default="0" label="Info Sito" description="Mostra informazioni sul sito">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="counter" type="radio" default="0" label="Info Contatore visite" description="Mostra contatore visite">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="increase" type="text" default="0" label="Incrementa contatore" description="Inserisci il numero di visite per incrementare il contatore" />
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class CSS modulo" description="Un suffisso alla classe CSS può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+	</params>
+</mosinstall>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Custom Module</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Modulo Personalizzato</description>
+	<params>
+		<param name="moduleclass_sfx" type="text" default="" label="Suffisso class css modulo" description="Per applicare un suffisso alla class css del modulo (table.moduletable), questo per ottenere uno stile individuale per il modulo" />
+		<param name="rssurl" type="text" default="" label="RSS URL" description="Inserire la URL del feed RSS/RDF" />
+		<param name="rsstitle" type="radio" default="1" label="Titolo Feed" description="Mostra il titolo dei news feed">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>	
+		<param name="rssdesc" type="radio" default="1" label="Descrizione" description="Mostro descrizione RSS">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="rssimage" type="radio" default="1" label="Immagine feed" description="Mostra immagine associata al feed">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="rssitems" type="text" default="3" label="Articoli" description="Inserire il numero di articoli RSS da mostrare" />
+		<param name="rssitemdesc" type="radio" default="1" label="Descrizione articolo" description="Mostra la descrizione oppure una introduzione di notizie individuali">
+			<option value="1">Si</option>
+			<option value="0">No</option>
+		</param>
+		<param name="word_count" type="text" size="6" default="0" label="Numero di parole" description="Abilita la opzione di limitare il testo visibile ad un determinato numero di caratteri del testo descrittivo. 0 significa tutto il testo" />
+		<param name="cache" type="radio" default="0" label="Abilita cache" description="Vuoi utilizzare la cache per questo modulo">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+	</params>
+</mosinstall>

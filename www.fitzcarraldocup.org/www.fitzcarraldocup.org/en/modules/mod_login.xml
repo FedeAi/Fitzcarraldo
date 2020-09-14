@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Login Form</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Questo modulo mostra la form dove inserire Username e Password per accedere al sito..</description>
+	<files>
+		<filename module="mod_login">mod_login.php</filename>
+	</files>
+	<params>
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class CSS modulo" description="Un suffisso alla classe CSS può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+		<param name="pretext" type="textarea" cols="20" rows="5" default="" label="Pre-text" description="Questo testo o HTML che viene mostrato sopra la login form" />
+		<param name="posttext" type="textarea" cols="20" rows="5" label="Post-text" description="Questo testo o HTML che viene mostrato sotto la login form" />
+		<param name="login" type="text" default="" label="Login Redirection URL" description="Indica in quale pagina vuoi reindirizzare gli utenti dopo il login, se lasciato in bianco vengono reindirizzati in front page" />
+		<param name="logout" type="text" default="" label="Logout Redirection URL" description="Indica in quale pagina vuoi reindirizzare gli utenti dopo il logout, se lasciato in bianco vengono reindirizzati in front page" />
+		<param name="login_message" type="radio" default="0" label="Messaggio Login" description="Mostra/Nascondi un messaggio in javascript Pop-up che indica il Login avvenuto correttamente">
+			<option value="0">Nascondi</option>
+			<option value="1">Mostra</option>
+		</param>
+		<param name="logout_message" type="radio" default="0" label="Messaggio Logout" description="Mostra/Nascondi un messaggio in javascript Pop-up che indica il Logout avvenuto correttamente">
+			<option value="0">Nascondi</option>
+			<option value="1">Mostra</option>
+		</param>
+		<param name="greeting" type="radio" default="1" label="Ringraziamenti" description="Mostra/Nascondi un semplice testo di ringraziamento">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="name" type="list" default="0" label="Nome/Nome utente">
+			<option value="0">Nome utente</option>
+			<option value="1">Nome</option>
+		</param>
+	</params>
+</mosinstall>

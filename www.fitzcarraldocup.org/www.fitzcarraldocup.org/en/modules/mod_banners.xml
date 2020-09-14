@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Banner</name>
+	<author>Joomla! Project</author>
+	<creationDate>August 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Il modulo banner permette di visualizzare i banner attivi del componente nel vostro sito.</description>
+	<files>
+		<filename module="mod_banners">mod_banners.php</filename>
+	</files>
+	<params>
+		<param name="banner_cids" type="text" default="" label="Cliente Banner" description="Referenze agli id clienti banner. Vanno inseriti separati da virgole es. 1,2,3" />
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffisso classe CSS modulo" description="Un suffisso alla classe css può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+	</params>
+</mosinstall>

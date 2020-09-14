@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mosinstall version="1.0.0" type="language">
+	<name>Italian</name>
+	<version>1.0.0</version>
+	<creationDate>2005-09-14</creationDate>
+	<author>TTI joomla.it</author>
+	<authorEmail>info@joomla.it</authorEmail>
+	<files>
+		<filename>italian.php</filename>
+		<filename>italian.ignore.php</filename>
+	</files>
+</mosinstall>

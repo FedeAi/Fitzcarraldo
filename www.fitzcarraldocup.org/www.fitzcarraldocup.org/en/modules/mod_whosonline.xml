@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Who's Online</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Il modulo mostra e conteggio i visitatori del nostro sito.</description>
+	<files>
+		<filename module="mod_whosonline">mod_whosonline.php</filename>
+	</files>
+	<params>
+	  <param name="showmode" type="radio" default="0" label="Mostra" description="scegli i dettagli degli utenti online da mostrare">
+		<option value="0"># di visitatori/Utenti&lt;br&gt;</option>
+		<option value="1">Nomi utenti&lt;br&gt;</option>
+		<option value="2">Entrambi</option>
+	  </param>
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class CSS modulo" description="Un suffisso alla classe CSS può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+	</params>
+</mosinstall>

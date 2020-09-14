@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Related Items</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Il modulo visualizza una lista di altri articoli correlati agli articoli che stiamo leggendo. Questo grazie alle parole chiave dei Metadata. Il modulo ricerca le parole chiave inserite nei metadata degli articoli e visualizza quelli con una correlazione con quello visualizzato. Per esempio, possiamo avere un articolo intitolato 'Joomla italiano' un altro con titolo 'Uscito Joomla italiano'. Se includiamo la parola chiave 'italiano' in entarmbi gli articoli, quando il modulo Articoli Correlati viene aperto con un articolo dal titolo 'Joomla Italiano' verrà messo nella lista anche 'Uscito Joomla italiano' e vice-versa.</description>
+	<files>
+	<filename module="mod_related_items">mod_related_items.php</filename>
+	</files>
+	<params>
+		<param name="cache" type="radio" default="0" label="Abilita Cache" description="Abilita Cache">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class css modulo" description="Un suffisso alla classe css può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+	</params>
+</mosinstall>

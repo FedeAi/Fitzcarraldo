@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="4.5.1" type="mambot" group="yanc">
+	<name>YaNC Core Tags</name>
+	<author>Adam van Dongen</author>
+	<creationDate>23-06-2005</creationDate>
+	<copyright>(C) 2004 TIM_online</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>adam@tim-online.nl</authorEmail>
+	<authorUrl>www.tim-online.nl</authorUrl>
+	<version>1.1</version>
+	<description>Sostituzione dei tag per YaNC</description>
+	<files>
+		<filename mambot="core_tags">core_tags.php</filename>
+	</files>
+	<params/>
+</mosinstall>

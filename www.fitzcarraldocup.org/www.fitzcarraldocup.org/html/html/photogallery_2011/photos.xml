@@ -1,0 +1,943 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "18/09/2011">
+	<sitename>Galleria di foto per Web</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "101.JPG"
+width = "500"
+height = "373"
+thumbpath = "101.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "102.JPG"
+width = "500"
+height = "373"
+thumbpath = "102.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "103.JPG"
+width = "500"
+height = "373"
+thumbpath = "103.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "104.JPG"
+width = "500"
+height = "373"
+thumbpath = "104.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "105.JPG"
+width = "500"
+height = "373"
+thumbpath = "105.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "106.JPG"
+width = "500"
+height = "373"
+thumbpath = "106.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "107.JPG"
+width = "500"
+height = "373"
+thumbpath = "107.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "108.JPG"
+width = "500"
+height = "373"
+thumbpath = "108.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "109.JPG"
+width = "373"
+height = "500"
+thumbpath = "109.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "110.JPG"
+width = "500"
+height = "373"
+thumbpath = "110.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "111.JPG"
+width = "500"
+height = "373"
+thumbpath = "111.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "112.JPG"
+width = "500"
+height = "373"
+thumbpath = "112.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "113.JPG"
+width = "500"
+height = "373"
+thumbpath = "113.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "114.JPG"
+width = "500"
+height = "373"
+thumbpath = "114.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "115.JPG"
+width = "500"
+height = "373"
+thumbpath = "115.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "116.JPG"
+width = "500"
+height = "373"
+thumbpath = "116.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "117.JPG"
+width = "500"
+height = "373"
+thumbpath = "117.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "118.JPG"
+width = "500"
+height = "373"
+thumbpath = "118.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "119.JPG"
+width = "500"
+height = "373"
+thumbpath = "119.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "120.JPG"
+width = "500"
+height = "373"
+thumbpath = "120.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "121.JPG"
+width = "500"
+height = "373"
+thumbpath = "121.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "122.JPG"
+width = "500"
+height = "373"
+thumbpath = "122.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "123.JPG"
+width = "500"
+height = "373"
+thumbpath = "123.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "124.JPG"
+width = "500"
+height = "373"
+thumbpath = "124.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "125.JPG"
+width = "500"
+height = "373"
+thumbpath = "125.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "126.JPG"
+width = "500"
+height = "373"
+thumbpath = "126.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "127.JPG"
+width = "500"
+height = "373"
+thumbpath = "127.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "128.JPG"
+width = "500"
+height = "373"
+thumbpath = "128.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "130.JPG"
+width = "500"
+height = "373"
+thumbpath = "130.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "131.JPG"
+width = "500"
+height = "373"
+thumbpath = "131.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "132.JPG"
+width = "500"
+height = "373"
+thumbpath = "132.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "133.JPG"
+width = "500"
+height = "373"
+thumbpath = "133.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "134.JPG"
+width = "500"
+height = "373"
+thumbpath = "134.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "135.JPG"
+width = "500"
+height = "373"
+thumbpath = "135.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "136.JPG"
+width = "500"
+height = "373"
+thumbpath = "136.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "137.JPG"
+width = "500"
+height = "373"
+thumbpath = "137.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "138.JPG"
+width = "500"
+height = "373"
+thumbpath = "138.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "139.JPG"
+width = "500"
+height = "373"
+thumbpath = "139.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "140.JPG"
+width = "500"
+height = "373"
+thumbpath = "140.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "141.JPG"
+width = "500"
+height = "373"
+thumbpath = "141.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "142.JPG"
+width = "500"
+height = "373"
+thumbpath = "142.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "143.JPG"
+width = "500"
+height = "373"
+thumbpath = "143.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "144.JPG"
+width = "500"
+height = "373"
+thumbpath = "144.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "145.JPG"
+width = "500"
+height = "373"
+thumbpath = "145.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "146.JPG"
+width = "500"
+height = "373"
+thumbpath = "146.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "147.JPG"
+width = "500"
+height = "373"
+thumbpath = "147.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "148.JPG"
+width = "500"
+height = "373"
+thumbpath = "148.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "149.JPG"
+width = "500"
+height = "373"
+thumbpath = "149.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "150.JPG"
+width = "366"
+height = "500"
+thumbpath = "150.JPG"
+thumbwidth = "54"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "151.JPG"
+width = "500"
+height = "373"
+thumbpath = "151.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "152.JPG"
+width = "500"
+height = "373"
+thumbpath = "152.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "153.JPG"
+width = "500"
+height = "373"
+thumbpath = "153.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "154.JPG"
+width = "500"
+height = "373"
+thumbpath = "154.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "155.JPG"
+width = "500"
+height = "373"
+thumbpath = "155.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "156.JPG"
+width = "500"
+height = "373"
+thumbpath = "156.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "157.JPG"
+width = "500"
+height = "373"
+thumbpath = "157.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "158.JPG"
+width = "500"
+height = "373"
+thumbpath = "158.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "159.JPG"
+width = "500"
+height = "373"
+thumbpath = "159.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "160.JPG"
+width = "500"
+height = "373"
+thumbpath = "160.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "161.JPG"
+width = "500"
+height = "373"
+thumbpath = "161.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "162.JPG"
+width = "500"
+height = "373"
+thumbpath = "162.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "163.JPG"
+width = "500"
+height = "373"
+thumbpath = "163.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "164.JPG"
+width = "500"
+height = "373"
+thumbpath = "164.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "165.JPG"
+width = "500"
+height = "373"
+thumbpath = "165.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "166.JPG"
+width = "500"
+height = "373"
+thumbpath = "166.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "167.JPG"
+width = "500"
+height = "373"
+thumbpath = "167.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "168.JPG"
+width = "500"
+height = "373"
+thumbpath = "168.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "169.JPG"
+width = "500"
+height = "373"
+thumbpath = "169.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "170.JPG"
+width = "373"
+height = "500"
+thumbpath = "170.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "171.JPG"
+width = "500"
+height = "373"
+thumbpath = "171.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "172.JPG"
+width = "500"
+height = "373"
+thumbpath = "172.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "173.JPG"
+width = "500"
+height = "373"
+thumbpath = "173.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "174.JPG"
+width = "500"
+height = "373"
+thumbpath = "174.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "175.JPG"
+width = "500"
+height = "373"
+thumbpath = "175.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "176.JPG"
+width = "500"
+height = "373"
+thumbpath = "176.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "177.JPG"
+width = "500"
+height = "373"
+thumbpath = "177.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "178.JPG"
+width = "500"
+height = "373"
+thumbpath = "178.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "179.JPG"
+width = "500"
+height = "373"
+thumbpath = "179.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "180.JPG"
+width = "500"
+height = "373"
+thumbpath = "180.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "181.JPG"
+width = "500"
+height = "373"
+thumbpath = "181.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "182.JPG"
+width = "500"
+height = "373"
+thumbpath = "182.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "183.JPG"
+width = "500"
+height = "331"
+thumbpath = "183.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "184.JPG"
+width = "500"
+height = "373"
+thumbpath = "184.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "185.JPG"
+width = "500"
+height = "331"
+thumbpath = "185.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

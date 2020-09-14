@@ -1,0 +1,1341 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "19/09/2010">
+	<sitename>FITZCARRALDO CUP 2010</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "001.JPG"
+width = "500"
+height = "332"
+thumbpath = "001.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "002_inpartenza.JPG"
+width = "500"
+height = "332"
+thumbpath = "002_inpartenza.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "003_partenza.JPG"
+width = "500"
+height = "332"
+thumbpath = "003_partenza.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "004_partenza1.JPG"
+width = "500"
+height = "332"
+thumbpath = "004_partenza1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "005_partiti1.JPG"
+width = "500"
+height = "332"
+thumbpath = "005_partiti1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "006_partiti2.JPG"
+width = "500"
+height = "332"
+thumbpath = "006_partiti2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "007_ ivincitore in compensato.JPG"
+width = "500"
+height = "332"
+thumbpath = "007_ ivincitore in compensato.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "008_distacco.JPG"
+width = "500"
+height = "332"
+thumbpath = "008_distacco.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "009_primoinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "009_primoinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "010_RS500.JPG"
+width = "332"
+height = "500"
+thumbpath = "010_RS500.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "011_RS500 e 470.JPG"
+width = "332"
+height = "500"
+thumbpath = "011_RS500 e 470.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "012_470 e RS500.JPG"
+width = "500"
+height = "332"
+thumbpath = "012_470 e RS500.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "013_panoramic.JPG"
+width = "500"
+height = "332"
+thumbpath = "013_panoramic.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "014_Boa-isola.JPG"
+width = "500"
+height = "332"
+thumbpath = "014_Boa-isola.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "015_primo spy issato.JPG"
+width = "500"
+height = "332"
+thumbpath = "015_primo spy issato.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "016_boadisimpegno.JPG"
+width = "500"
+height = "332"
+thumbpath = "016_boadisimpegno.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "017_inboa1.JPG"
+width = "500"
+height = "332"
+thumbpath = "017_inboa1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "018_inboa2.JPG"
+width = "500"
+height = "332"
+thumbpath = "018_inboa2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "019_inboa3.JPG"
+width = "500"
+height = "332"
+thumbpath = "019_inboa3.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "020_inboa4.JPG"
+width = "500"
+height = "332"
+thumbpath = "020_inboa4.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "021_FDinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "021_FDinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "022_dinghy.JPG"
+width = "500"
+height = "332"
+thumbpath = "022_dinghy.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "023_boadisimpegno.JPG"
+width = "500"
+height = "332"
+thumbpath = "023_boadisimpegno.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "024_FJinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "024_FJinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "025_arriviinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "025_arriviinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "026_FJinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "026_FJinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "027_Fireballinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "027_Fireballinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "028_poppa1.JPG"
+width = "332"
+height = "500"
+thumbpath = "028_poppa1.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "029_panoramica1.JPG"
+width = "500"
+height = "332"
+thumbpath = "029_panoramica1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "030_boadisimpegno.JPG"
+width = "500"
+height = "332"
+thumbpath = "030_boadisimpegno.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "031_Topaz.JPG"
+width = "500"
+height = "332"
+thumbpath = "031_Topaz.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "032_Enzoinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "032_Enzoinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "033_boadisimpegno.JPG"
+width = "500"
+height = "332"
+thumbpath = "033_boadisimpegno.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "034_Caravelle.JPG"
+width = "332"
+height = "500"
+thumbpath = "034_Caravelle.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "035_Fireballinpoppa.JPG"
+width = "500"
+height = "332"
+thumbpath = "035_Fireballinpoppa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "036_spy.JPG"
+width = "500"
+height = "332"
+thumbpath = "036_spy.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "037_SpyClaudio.JPG"
+width = "332"
+height = "500"
+thumbpath = "037_SpyClaudio.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "038_spy1.JPG"
+width = "500"
+height = "332"
+thumbpath = "038_spy1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "039_Spy2.JPG"
+width = "500"
+height = "332"
+thumbpath = "039_Spy2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "040_isola.JPG"
+width = "500"
+height = "332"
+thumbpath = "040_isola.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "041_RSS00.JPG"
+width = "500"
+height = "332"
+thumbpath = "041_RSS00.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "042_isola2.JPG"
+width = "500"
+height = "332"
+thumbpath = "042_isola2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "043_FD.JPG"
+width = "332"
+height = "500"
+thumbpath = "043_FD.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "044_Strale.JPG"
+width = "500"
+height = "332"
+thumbpath = "044_Strale.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "045_isolatrimelone.JPG"
+width = "500"
+height = "332"
+thumbpath = "045_isolatrimelone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "046_spy470.JPG"
+width = "500"
+height = "332"
+thumbpath = "046_spy470.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "047_FDalll'isola.JPG"
+width = "500"
+height = "332"
+thumbpath = "047_FDalll'isola.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "048_panoramica3.JPG"
+width = "500"
+height = "332"
+thumbpath = "048_panoramica3.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "049_470poppa.JPG"
+width = "500"
+height = "332"
+thumbpath = "049_470poppa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "050_Ulivo.JPG"
+width = "500"
+height = "332"
+thumbpath = "050_Ulivo.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "051_RS100 e470.JPG"
+width = "500"
+height = "332"
+thumbpath = "051_RS100 e470.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "052_Isoladell'Ulivo.JPG"
+width = "500"
+height = "332"
+thumbpath = "052_Isoladell'Ulivo.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "053_Buzz.JPG"
+width = "500"
+height = "332"
+thumbpath = "053_Buzz.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "054_BoaLimone.JPG"
+width = "500"
+height = "332"
+thumbpath = "054_BoaLimone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "055_BoaLimone1.JPG"
+width = "500"
+height = "332"
+thumbpath = "055_BoaLimone1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "056_BoaLimone2.JPG"
+width = "500"
+height = "332"
+thumbpath = "056_BoaLimone2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "057_Boalimone3.JPG"
+width = "500"
+height = "332"
+thumbpath = "057_Boalimone3.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "058_RS00inboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "058_RS00inboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "059_3124inboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "059_3124inboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "060_Carloinboa.JPG"
+width = "500"
+height = "332"
+thumbpath = "060_Carloinboa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "061_CarloLaser2.JPG"
+width = "500"
+height = "332"
+thumbpath = "061_CarloLaser2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "062_arriviinboaLimone.JPG"
+width = "500"
+height = "332"
+thumbpath = "062_arriviinboaLimone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "063_boadi Limone.JPG"
+width = "500"
+height = "332"
+thumbpath = "063_boadi Limone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "064_FJin boa.JPG"
+width = "500"
+height = "332"
+thumbpath = "064_FJin boa.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "065_boaLimone.JPG"
+width = "500"
+height = "332"
+thumbpath = "065_boaLimone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "066_420.JPG"
+width = "500"
+height = "332"
+thumbpath = "066_420.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "067_Limone.JPG"
+width = "500"
+height = "332"
+thumbpath = "067_Limone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "067_Selvaggia1.JPG"
+width = "332"
+height = "500"
+thumbpath = "067_Selvaggia1.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "068_Buzzspy.JPG"
+width = "500"
+height = "332"
+thumbpath = "068_Buzzspy.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "069_Fireball.JPG"
+width = "500"
+height = "332"
+thumbpath = "069_Fireball.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "070_LaserVago.JPG"
+width = "500"
+height = "332"
+thumbpath = "070_LaserVago.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "071_FJgiallo.JPG"
+width = "500"
+height = "332"
+thumbpath = "071_FJgiallo.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "072_Byte.JPG"
+width = "500"
+height = "332"
+thumbpath = "072_Byte.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "073_AlpaSpip1.JPG"
+width = "500"
+height = "332"
+thumbpath = "073_AlpaSpip1.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "074_FJ3824.JPG"
+width = "500"
+height = "332"
+thumbpath = "074_FJ3824.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "075_topazLimone.JPG"
+width = "332"
+height = "500"
+thumbpath = "075_topazLimone.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "076_CaravelleScuolaVela.JPG"
+width = "332"
+height = "500"
+thumbpath = "076_CaravelleScuolaVela.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "077_CaravelleITA2.JPG"
+width = "332"
+height = "500"
+thumbpath = "077_CaravelleITA2.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "078_LaserVagobolina.JPG"
+width = "332"
+height = "500"
+thumbpath = "078_LaserVagobolina.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "079_Trident.JPG"
+width = "332"
+height = "500"
+thumbpath = "079_Trident.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "080_Fireball.JPG"
+width = "332"
+height = "500"
+thumbpath = "080_Fireball.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "081_Strale1.JPG"
+width = "332"
+height = "500"
+thumbpath = "081_Strale1.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "082_bolina1.JPG"
+width = "332"
+height = "500"
+thumbpath = "082_bolina1.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "083_Bolina2.JPG"
+width = "500"
+height = "332"
+thumbpath = "083_Bolina2.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "084_isolatrimelone.JPG"
+width = "500"
+height = "332"
+thumbpath = "084_isolatrimelone.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "085_RS814.JPG"
+width = "500"
+height = "332"
+thumbpath = "085_RS814.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "086_arrivoRSITA814.JPG"
+width = "500"
+height = "332"
+thumbpath = "086_arrivoRSITA814.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "088_Selvaggia2.JPG"
+width = "332"
+height = "500"
+thumbpath = "088_Selvaggia2.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "089_470ITA4308.JPG"
+width = "332"
+height = "500"
+thumbpath = "089_470ITA4308.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "090_470inbolina.JPG"
+width = "332"
+height = "500"
+thumbpath = "090_470inbolina.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "091_arrivoFD.JPG"
+width = "500"
+height = "332"
+thumbpath = "091_arrivoFD.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "092_controluceSelvaggia.JPG"
+width = "332"
+height = "500"
+thumbpath = "092_controluceSelvaggia.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "093_470inarrivo.JPG"
+width = "500"
+height = "332"
+thumbpath = "093_470inarrivo.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "094_Testimonial.JPG"
+width = "332"
+height = "500"
+thumbpath = "094_Testimonial.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "095_TargaxTestimonial.JPG"
+width = "332"
+height = "500"
+thumbpath = "095_TargaxTestimonial.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "096_premiazione1.JPG"
+width = "332"
+height = "500"
+thumbpath = "096_premiazione1.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "097_premiazione2.JPG"
+width = "332"
+height = "500"
+thumbpath = "097_premiazione2.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "098_premiazione3.JPG"
+width = "500"
+height = "332"
+thumbpath = "098_premiazione3.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "099_premiazione4.JPG"
+width = "500"
+height = "332"
+thumbpath = "099_premiazione4.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "100_premiazione5.JPG"
+width = "500"
+height = "332"
+thumbpath = "100_premiazione5.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "101_premiazione6.JPG"
+width = "500"
+height = "332"
+thumbpath = "101_premiazione6.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "102_MemorialStancic.JPG"
+width = "500"
+height = "332"
+thumbpath = "102_MemorialStancic.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "103_premiazione7.JPG"
+width = "500"
+height = "332"
+thumbpath = "103_premiazione7.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "104_premiazione8.JPG"
+width = "500"
+height = "332"
+thumbpath = "104_premiazione8.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "105_premiazione9.JPG"
+width = "500"
+height = "332"
+thumbpath = "105_premiazione9.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "106_premiazione10.JPG"
+width = "500"
+height = "332"
+thumbpath = "106_premiazione10.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "107_premiazione11.JPG"
+width = "500"
+height = "332"
+thumbpath = "107_premiazione11.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "108_premiazione12.JPG"
+width = "500"
+height = "332"
+thumbpath = "108_premiazione12.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "109_premiazione13.JPG"
+width = "500"
+height = "332"
+thumbpath = "109_premiazione13.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "110_MemorialPifferi.JPG"
+width = "332"
+height = "500"
+thumbpath = "110_MemorialPifferi.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "111_premiazioneMalcesine.JPG"
+width = "500"
+height = "332"
+thumbpath = "111_premiazioneMalcesine.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "112_premiazione14.JPG"
+width = "500"
+height = "332"
+thumbpath = "112_premiazione14.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "113_ReferenteMalcesine.JPG"
+width = "500"
+height = "332"
+thumbpath = "113_ReferenteMalcesine.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "114_premioMalcesine.JPG"
+width = "500"
+height = "332"
+thumbpath = "114_premioMalcesine.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "115_premioal presidenteYCA.JPG"
+width = "500"
+height = "332"
+thumbpath = "115_premioal presidenteYCA.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "116_premiazioneCILD.JPG"
+width = "500"
+height = "332"
+thumbpath = "116_premiazioneCILD.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "117_MeG.JPG"
+width = "500"
+height = "332"
+thumbpath = "117_MeG.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "118_Circuito.JPG"
+width = "500"
+height = "332"
+thumbpath = "118_Circuito.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "119_Circuito3.JPG"
+width = "332"
+height = "500"
+thumbpath = "119_Circuito3.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "120_circuito4.JPG"
+width = "332"
+height = "500"
+thumbpath = "120_circuito4.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "121_PresidenteCILD.JPG"
+width = "500"
+height = "332"
+thumbpath = "121_PresidenteCILD.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "122_VincitoriCILD.JPG"
+width = "332"
+height = "500"
+thumbpath = "122_VincitoriCILD.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "123_Circuito.JPG"
+width = "332"
+height = "500"
+thumbpath = "123_Circuito.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "124_trofeocircuito.JPG"
+width = "332"
+height = "500"
+thumbpath = "124_trofeocircuito.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "125.JPG"
+width = "500"
+height = "332"
+thumbpath = "125.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "126.JPG"
+width = "332"
+height = "500"
+thumbpath = "126.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "127.JPG"
+width = "332"
+height = "500"
+thumbpath = "127.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "129.JPG"
+width = "332"
+height = "500"
+thumbpath = "129.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "130.JPG"
+width = "332"
+height = "500"
+thumbpath = "130.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "131.JPG"
+width = "500"
+height = "332"
+thumbpath = "131.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "132.JPG"
+width = "500"
+height = "332"
+thumbpath = "132.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "134.JPG"
+width = "500"
+height = "332"
+thumbpath = "134.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

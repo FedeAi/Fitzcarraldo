@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Search Module</name>
+	<author>Joomla! Project</author>
+	<creationDate>July 2004</creationDate>
+	<copyright>(C) 2005 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>Questo modulo visualizza un box di ricerca</description>
+	<files>
+		<filename module="mod_search">mod_search.php</filename>
+	</files>
+	<params>
+	        <param name="moduleclass_sfx" type="text" default="" label="Suffiso class CSS modulo" description="Un suffisso alla classe CSS può essere applicato al modulo (table.moduletable), questo garantisce uno stile individuale al modulo pagina" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="cache" type="radio" default="0" label="Abilita Cache" description="Abilita Cache">
+			<option value="0">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="set_itemid" type="text" default="" label="Configura Itemid" description="Permette di configurare gli Itemid in riferimento ai collegamenti ricerca" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="width" type="text" default="20" label="Larghezza Box" description="Ampiezza del testo nel box di ricerca" />
+		<param name="text" type="text" default="" label="Testo" description="Il testo che appare nel box ricerca, se lasciato vuoto prende la definizione lingua _SEARCH_BOX dal file lingua" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="button" type="radio" default="" label="Pulsante ricerca" description="Mostra un pulsante di ricerca">
+			<option value="">No</option>
+			<option value="1">Si</option>
+		</param>
+		<param name="button_pos" type="list" default="right" label="Posizione pulsante" description="Posizione del pulsante relativo al box di ricerca">
+			<option value="right">Destra</option>
+			<option value="left">Sinistra</option>
+			<option value="top">Alto</option>
+			<option value="bottom">Basso</option>
+		</param>
+		<param name="button_text" type="text" default="" label="Testo pulsante" description="Il testo che appare nel pulsante di ricerca, se lasciato vuoto carica dal file lingua la definizione _SEARCH_TITLE " />
+	</params>
+</mosinstall>

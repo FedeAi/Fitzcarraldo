@@ -1,0 +1,29 @@
+                       413210037a:2:{s:6:"output";s:2481:"			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				Where we are								</td>
+							<td align="right" width="100%" class="buttonheading">
+			<a href="javascript:void(0)" onclick="window.open('http://www.fitzcarraldocup.org/en/index2.php?option=com_content&amp;do_pdf=1&amp;id=16','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');" title="PDF">
+			<img src="http://www.fitzcarraldocup.org/en/images/M_images/pdf_button.png" alt="PDF" align="middle" name="PDF" border="0" />			</a>
+			</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="javascript:void(0)" onclick="window.open('http://www.fitzcarraldocup.org/en/index2.php?option=com_content&amp;task=view&amp;id=16&amp;Itemid=15&amp;pop=1&amp;page=0','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');" title="Stampa">
+				<img src="http://www.fitzcarraldocup.org/en/images/M_images/printButton.png" alt="Stampa" align="middle" name="Stampa" border="0" />				</a>
+				</td>
+							<td align="right" width="100%" class="buttonheading">
+			<a href="javascript:void(0)" onclick="window.open('http://www.fitzcarraldocup.org/en/index2.php?option=com_content&amp;task=emailform&amp;id=16','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no');" title="E-mail">
+			<img src="http://www.fitzcarraldocup.org/en/images/M_images/emailButton.png" alt="E-mail" align="middle" name="E-mail" border="0" />			</a>
+			</td>
+						</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+			<span class="maintext">The Fitzcarraldo Sailing Club is based in Brenzone on the East coast of the Garda lake.<br /><br />This is the place where we organize all sailing, cultural and social activities.</span><p><br /><span class="maintext">The &quot;Fitz Court&quot; is often liven up by people who share experiences and knoledge on the sailing world, enjoying the pleasure of different points of view and impressions.</span></p><p><span class="maintext">Our &quot;headquarters&quot; are the best place to approach the most authentic sailing world and to deepen the main principles of the seafaring culture. </span></p>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		";s:6:"result";N;}

@@ -1,0 +1,851 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "27/09/2009">
+	<sitename>FitzcarraldoCup 2009</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "FIZ_01.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_01.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_02.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_02.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_03.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_03.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_04.JPG"
+width = "550"
+height = "366"
+thumbpath = "FIZ_04.JPG"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "FIZ_05.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_05.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_06.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_06.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_07.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_07.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_08.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_08.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_09.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_09.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_10.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_10.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_11.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_11.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_12.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_12.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_13.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_13.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_14.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_14.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_15.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_15.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_16.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_16.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_17.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_17.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_18.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_18.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_19.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_19.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_20.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_20.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_21.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_21.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_22.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_22.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_23.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_23.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_24.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_24.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_25.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_25.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_26.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_26.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_27.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_27.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_28.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_28.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_29.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_29.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_30.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_30.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_31.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_31.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_32.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_32.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_33.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_33.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_34.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_34.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_35.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_35.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_36.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_36.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_37.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_37.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_38.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_38.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_39.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_39.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_40.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_40.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_41.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_41.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_42.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_42.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_43.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_43.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_44.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_44.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_45.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_45.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_46.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_46.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_47.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_47.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_48.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_48.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_49.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_49.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_50.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_50.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_51.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_51.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_52.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_52.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_53.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_53.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_54.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_54.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_55.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_55.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_56.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_56.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_57.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_57.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_58.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_58.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_59.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_59.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_60.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_60.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_61.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_61.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_62.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_62.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_63.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_63.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_64.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_64.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_65.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_65.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_66.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_66.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_67.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_67.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_68.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_68.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_69.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_69.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_70.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_70.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_71.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_71.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_72.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_72.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_73.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_73.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_74.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_74.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_75.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_75.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_76.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_76.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_77.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_77.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_78.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_78.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_79.JPG"
+width = "364"
+height = "550"
+thumbpath = "FIZ_79.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "FIZ_80.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_80.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_81.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_81.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_82.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_82.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "FIZ_83.JPG"
+width = "550"
+height = "364"
+thumbpath = "FIZ_83.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

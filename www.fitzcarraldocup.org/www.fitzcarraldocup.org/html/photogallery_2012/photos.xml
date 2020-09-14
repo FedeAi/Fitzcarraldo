@@ -1,0 +1,2586 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "23/09/2012">
+	<sitename>Galleria di foto per Web</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "001.JPG"
+width = "500"
+height = "375"
+thumbpath = "001.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "002.JPG"
+width = "500"
+height = "333"
+thumbpath = "002.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "003.JPG"
+width = "500"
+height = "333"
+thumbpath = "003.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "004.JPG"
+width = "500"
+height = "333"
+thumbpath = "004.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "005.JPG"
+width = "500"
+height = "333"
+thumbpath = "005.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "006.JPG"
+width = "500"
+height = "333"
+thumbpath = "006.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "007.JPG"
+width = "500"
+height = "333"
+thumbpath = "007.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "008.JPG"
+width = "500"
+height = "333"
+thumbpath = "008.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "009.JPG"
+width = "500"
+height = "333"
+thumbpath = "009.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "010.JPG"
+width = "500"
+height = "333"
+thumbpath = "010.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "011.JPG"
+width = "500"
+height = "333"
+thumbpath = "011.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "012.JPG"
+width = "500"
+height = "411"
+thumbpath = "012.JPG"
+thumbwidth = "75"
+thumbheight = "61">
+</image>
+
+
+<image
+path = "013.JPG"
+width = "500"
+height = "333"
+thumbpath = "013.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "014.JPG"
+width = "500"
+height = "333"
+thumbpath = "014.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "015.JPG"
+width = "500"
+height = "333"
+thumbpath = "015.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "016.JPG"
+width = "500"
+height = "333"
+thumbpath = "016.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "017.JPG"
+width = "500"
+height = "333"
+thumbpath = "017.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "018.JPG"
+width = "500"
+height = "333"
+thumbpath = "018.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "019.JPG"
+width = "500"
+height = "333"
+thumbpath = "019.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "020.JPG"
+width = "333"
+height = "500"
+thumbpath = "020.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "021.JPG"
+width = "500"
+height = "333"
+thumbpath = "021.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "022.JPG"
+width = "333"
+height = "500"
+thumbpath = "022.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "023.JPG"
+width = "500"
+height = "333"
+thumbpath = "023.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "024.JPG"
+width = "500"
+height = "333"
+thumbpath = "024.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "025.JPG"
+width = "500"
+height = "333"
+thumbpath = "025.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "026.JPG"
+width = "333"
+height = "500"
+thumbpath = "026.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "027.JPG"
+width = "500"
+height = "333"
+thumbpath = "027.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "028.JPG"
+width = "500"
+height = "333"
+thumbpath = "028.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "029.JPG"
+width = "500"
+height = "333"
+thumbpath = "029.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "030.JPG"
+width = "333"
+height = "500"
+thumbpath = "030.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "031.JPG"
+width = "500"
+height = "333"
+thumbpath = "031.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "032.JPG"
+width = "500"
+height = "333"
+thumbpath = "032.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "033.JPG"
+width = "500"
+height = "333"
+thumbpath = "033.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "034.JPG"
+width = "333"
+height = "500"
+thumbpath = "034.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "035.JPG"
+width = "500"
+height = "333"
+thumbpath = "035.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "036.JPG"
+width = "500"
+height = "333"
+thumbpath = "036.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "037.JPG"
+width = "500"
+height = "333"
+thumbpath = "037.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "038.JPG"
+width = "500"
+height = "333"
+thumbpath = "038.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "039.JPG"
+width = "500"
+height = "333"
+thumbpath = "039.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "040.JPG"
+width = "500"
+height = "333"
+thumbpath = "040.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "041.JPG"
+width = "333"
+height = "500"
+thumbpath = "041.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "042.JPG"
+width = "500"
+height = "333"
+thumbpath = "042.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "043.JPG"
+width = "500"
+height = "333"
+thumbpath = "043.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "044.JPG"
+width = "333"
+height = "500"
+thumbpath = "044.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "045.JPG"
+width = "333"
+height = "500"
+thumbpath = "045.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "046.JPG"
+width = "500"
+height = "333"
+thumbpath = "046.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "047.JPG"
+width = "500"
+height = "333"
+thumbpath = "047.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "048.JPG"
+width = "500"
+height = "333"
+thumbpath = "048.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "049.JPG"
+width = "333"
+height = "500"
+thumbpath = "049.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "050.JPG"
+width = "500"
+height = "333"
+thumbpath = "050.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "051.JPG"
+width = "500"
+height = "333"
+thumbpath = "051.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "052.JPG"
+width = "333"
+height = "500"
+thumbpath = "052.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "053.JPG"
+width = "500"
+height = "333"
+thumbpath = "053.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "054.JPG"
+width = "500"
+height = "333"
+thumbpath = "054.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "055.JPG"
+width = "500"
+height = "333"
+thumbpath = "055.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "056.JPG"
+width = "500"
+height = "333"
+thumbpath = "056.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "057.JPG"
+width = "500"
+height = "333"
+thumbpath = "057.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "058.JPG"
+width = "500"
+height = "333"
+thumbpath = "058.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "059.JPG"
+width = "500"
+height = "333"
+thumbpath = "059.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "060.JPG"
+width = "500"
+height = "375"
+thumbpath = "060.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "061.JPG"
+width = "500"
+height = "375"
+thumbpath = "061.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "062.JPG"
+width = "375"
+height = "500"
+thumbpath = "062.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "063.JPG"
+width = "500"
+height = "333"
+thumbpath = "063.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "064.JPG"
+width = "500"
+height = "333"
+thumbpath = "064.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "065.JPG"
+width = "500"
+height = "333"
+thumbpath = "065.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "066.JPG"
+width = "500"
+height = "333"
+thumbpath = "066.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "067.JPG"
+width = "500"
+height = "333"
+thumbpath = "067.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "068.JPG"
+width = "500"
+height = "333"
+thumbpath = "068.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "069.JPG"
+width = "500"
+height = "333"
+thumbpath = "069.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "070.JPG"
+width = "500"
+height = "375"
+thumbpath = "070.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "071.JPG"
+width = "500"
+height = "333"
+thumbpath = "071.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "072.JPG"
+width = "500"
+height = "333"
+thumbpath = "072.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "073.JPG"
+width = "500"
+height = "333"
+thumbpath = "073.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "074.JPG"
+width = "500"
+height = "333"
+thumbpath = "074.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "075.JPG"
+width = "500"
+height = "333"
+thumbpath = "075.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "076.JPG"
+width = "500"
+height = "333"
+thumbpath = "076.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "077.JPG"
+width = "500"
+height = "333"
+thumbpath = "077.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "078.JPG"
+width = "500"
+height = "333"
+thumbpath = "078.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "079.JPG"
+width = "500"
+height = "333"
+thumbpath = "079.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "080.JPG"
+width = "500"
+height = "333"
+thumbpath = "080.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "081.JPG"
+width = "333"
+height = "500"
+thumbpath = "081.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "082.JPG"
+width = "500"
+height = "333"
+thumbpath = "082.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "083.JPG"
+width = "500"
+height = "333"
+thumbpath = "083.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "084.JPG"
+width = "500"
+height = "333"
+thumbpath = "084.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "085.JPG"
+width = "333"
+height = "500"
+thumbpath = "085.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "086.JPG"
+width = "500"
+height = "333"
+thumbpath = "086.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "087.JPG"
+width = "500"
+height = "333"
+thumbpath = "087.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "088.JPG"
+width = "500"
+height = "333"
+thumbpath = "088.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "089.JPG"
+width = "500"
+height = "333"
+thumbpath = "089.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "090.JPG"
+width = "500"
+height = "333"
+thumbpath = "090.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "091.JPG"
+width = "500"
+height = "333"
+thumbpath = "091.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "092.JPG"
+width = "500"
+height = "333"
+thumbpath = "092.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "093.JPG"
+width = "500"
+height = "333"
+thumbpath = "093.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "094.JPG"
+width = "500"
+height = "333"
+thumbpath = "094.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "095.JPG"
+width = "500"
+height = "333"
+thumbpath = "095.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "096.JPG"
+width = "500"
+height = "333"
+thumbpath = "096.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "097.JPG"
+width = "500"
+height = "333"
+thumbpath = "097.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "098.JPG"
+width = "500"
+height = "333"
+thumbpath = "098.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "099.JPG"
+width = "500"
+height = "333"
+thumbpath = "099.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "100.JPG"
+width = "500"
+height = "333"
+thumbpath = "100.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "101.JPG"
+width = "500"
+height = "333"
+thumbpath = "101.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "102.JPG"
+width = "500"
+height = "333"
+thumbpath = "102.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "103.JPG"
+width = "500"
+height = "333"
+thumbpath = "103.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "104.JPG"
+width = "500"
+height = "333"
+thumbpath = "104.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "105.JPG"
+width = "500"
+height = "333"
+thumbpath = "105.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "106.JPG"
+width = "500"
+height = "333"
+thumbpath = "106.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "107.JPG"
+width = "500"
+height = "333"
+thumbpath = "107.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "108.JPG"
+width = "500"
+height = "333"
+thumbpath = "108.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "109.JPG"
+width = "500"
+height = "333"
+thumbpath = "109.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "110.JPG"
+width = "500"
+height = "333"
+thumbpath = "110.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "111.JPG"
+width = "500"
+height = "333"
+thumbpath = "111.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "112.JPG"
+width = "500"
+height = "333"
+thumbpath = "112.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "113.JPG"
+width = "500"
+height = "333"
+thumbpath = "113.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "114.JPG"
+width = "500"
+height = "333"
+thumbpath = "114.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "115.JPG"
+width = "500"
+height = "333"
+thumbpath = "115.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "116.JPG"
+width = "500"
+height = "333"
+thumbpath = "116.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "117.JPG"
+width = "500"
+height = "333"
+thumbpath = "117.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "118.JPG"
+width = "500"
+height = "333"
+thumbpath = "118.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "119.JPG"
+width = "500"
+height = "333"
+thumbpath = "119.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "120.JPG"
+width = "500"
+height = "333"
+thumbpath = "120.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "121.JPG"
+width = "500"
+height = "333"
+thumbpath = "121.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "122.JPG"
+width = "500"
+height = "333"
+thumbpath = "122.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "123.JPG"
+width = "500"
+height = "333"
+thumbpath = "123.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "124.JPG"
+width = "333"
+height = "500"
+thumbpath = "124.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "125.JPG"
+width = "500"
+height = "333"
+thumbpath = "125.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "126.JPG"
+width = "500"
+height = "333"
+thumbpath = "126.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "127.JPG"
+width = "500"
+height = "333"
+thumbpath = "127.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "128.JPG"
+width = "500"
+height = "333"
+thumbpath = "128.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "129.JPG"
+width = "500"
+height = "333"
+thumbpath = "129.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "130.JPG"
+width = "333"
+height = "500"
+thumbpath = "130.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "131.JPG"
+width = "500"
+height = "333"
+thumbpath = "131.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "132.JPG"
+width = "500"
+height = "333"
+thumbpath = "132.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "133.JPG"
+width = "500"
+height = "333"
+thumbpath = "133.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "134.JPG"
+width = "333"
+height = "500"
+thumbpath = "134.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "135.JPG"
+width = "500"
+height = "333"
+thumbpath = "135.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "136.JPG"
+width = "500"
+height = "333"
+thumbpath = "136.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "137.JPG"
+width = "500"
+height = "333"
+thumbpath = "137.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "138.JPG"
+width = "500"
+height = "333"
+thumbpath = "138.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "139.JPG"
+width = "500"
+height = "333"
+thumbpath = "139.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "140.JPG"
+width = "500"
+height = "333"
+thumbpath = "140.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "141.JPG"
+width = "500"
+height = "333"
+thumbpath = "141.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "142.JPG"
+width = "500"
+height = "333"
+thumbpath = "142.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "143.JPG"
+width = "500"
+height = "333"
+thumbpath = "143.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "144.JPG"
+width = "500"
+height = "333"
+thumbpath = "144.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "145.JPG"
+width = "500"
+height = "333"
+thumbpath = "145.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "146.JPG"
+width = "500"
+height = "375"
+thumbpath = "146.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "147.JPG"
+width = "500"
+height = "375"
+thumbpath = "147.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "148.JPG"
+width = "500"
+height = "375"
+thumbpath = "148.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "149.JPG"
+width = "500"
+height = "333"
+thumbpath = "149.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "150.JPG"
+width = "500"
+height = "333"
+thumbpath = "150.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "151.JPG"
+width = "500"
+height = "333"
+thumbpath = "151.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "152.JPG"
+width = "500"
+height = "333"
+thumbpath = "152.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "153.JPG"
+width = "500"
+height = "333"
+thumbpath = "153.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "154.JPG"
+width = "500"
+height = "333"
+thumbpath = "154.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "155.JPG"
+width = "500"
+height = "333"
+thumbpath = "155.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "156.JPG"
+width = "500"
+height = "333"
+thumbpath = "156.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "157.JPG"
+width = "500"
+height = "333"
+thumbpath = "157.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "158.JPG"
+width = "500"
+height = "333"
+thumbpath = "158.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "159.JPG"
+width = "500"
+height = "333"
+thumbpath = "159.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "160.JPG"
+width = "500"
+height = "333"
+thumbpath = "160.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "161.JPG"
+width = "500"
+height = "333"
+thumbpath = "161.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "162.JPG"
+width = "500"
+height = "333"
+thumbpath = "162.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "163.JPG"
+width = "500"
+height = "333"
+thumbpath = "163.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "164.JPG"
+width = "500"
+height = "333"
+thumbpath = "164.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "165.JPG"
+width = "500"
+height = "333"
+thumbpath = "165.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "166.JPG"
+width = "500"
+height = "333"
+thumbpath = "166.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "167.JPG"
+width = "500"
+height = "333"
+thumbpath = "167.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "168.JPG"
+width = "500"
+height = "333"
+thumbpath = "168.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "169.JPG"
+width = "500"
+height = "333"
+thumbpath = "169.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "170.JPG"
+width = "500"
+height = "333"
+thumbpath = "170.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "171.JPG"
+width = "333"
+height = "500"
+thumbpath = "171.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "172.JPG"
+width = "500"
+height = "333"
+thumbpath = "172.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "173.JPG"
+width = "500"
+height = "333"
+thumbpath = "173.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "174.JPG"
+width = "500"
+height = "333"
+thumbpath = "174.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "175.JPG"
+width = "333"
+height = "500"
+thumbpath = "175.JPG"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "176.JPG"
+width = "500"
+height = "333"
+thumbpath = "176.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "177.JPG"
+width = "500"
+height = "333"
+thumbpath = "177.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "178.JPG"
+width = "500"
+height = "333"
+thumbpath = "178.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "179.JPG"
+width = "500"
+height = "333"
+thumbpath = "179.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "180.JPG"
+width = "500"
+height = "333"
+thumbpath = "180.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "181.JPG"
+width = "500"
+height = "333"
+thumbpath = "181.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "182.JPG"
+width = "500"
+height = "333"
+thumbpath = "182.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "183.JPG"
+width = "500"
+height = "333"
+thumbpath = "183.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "184.JPG"
+width = "500"
+height = "333"
+thumbpath = "184.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "185.JPG"
+width = "500"
+height = "333"
+thumbpath = "185.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "186.JPG"
+width = "500"
+height = "333"
+thumbpath = "186.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "187.JPG"
+width = "500"
+height = "333"
+thumbpath = "187.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "188.JPG"
+width = "500"
+height = "333"
+thumbpath = "188.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "189.JPG"
+width = "500"
+height = "333"
+thumbpath = "189.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "190.JPG"
+width = "500"
+height = "333"
+thumbpath = "190.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "191.JPG"
+width = "500"
+height = "333"
+thumbpath = "191.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "192.JPG"
+width = "500"
+height = "333"
+thumbpath = "192.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "193.JPG"
+width = "500"
+height = "333"
+thumbpath = "193.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "194.JPG"
+width = "500"
+height = "333"
+thumbpath = "194.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "195.JPG"
+width = "500"
+height = "333"
+thumbpath = "195.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "196.JPG"
+width = "500"
+height = "333"
+thumbpath = "196.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "197.JPG"
+width = "500"
+height = "333"
+thumbpath = "197.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "198.JPG"
+width = "500"
+height = "333"
+thumbpath = "198.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "199.JPG"
+width = "500"
+height = "333"
+thumbpath = "199.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "200.JPG"
+width = "500"
+height = "333"
+thumbpath = "200.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "201.JPG"
+width = "500"
+height = "333"
+thumbpath = "201.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "202.JPG"
+width = "500"
+height = "333"
+thumbpath = "202.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "203.JPG"
+width = "500"
+height = "333"
+thumbpath = "203.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "204.JPG"
+width = "500"
+height = "333"
+thumbpath = "204.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "205.JPG"
+width = "500"
+height = "333"
+thumbpath = "205.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "206.JPG"
+width = "500"
+height = "333"
+thumbpath = "206.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "207.JPG"
+width = "500"
+height = "333"
+thumbpath = "207.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "208.JPG"
+width = "500"
+height = "333"
+thumbpath = "208.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "209.JPG"
+width = "500"
+height = "333"
+thumbpath = "209.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "210.JPG"
+width = "500"
+height = "333"
+thumbpath = "210.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "211.JPG"
+width = "500"
+height = "333"
+thumbpath = "211.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "212.JPG"
+width = "500"
+height = "333"
+thumbpath = "212.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "213.JPG"
+width = "500"
+height = "333"
+thumbpath = "213.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "214.JPG"
+width = "500"
+height = "333"
+thumbpath = "214.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "215.JPG"
+width = "500"
+height = "333"
+thumbpath = "215.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "216.JPG"
+width = "500"
+height = "333"
+thumbpath = "216.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "217.JPG"
+width = "500"
+height = "333"
+thumbpath = "217.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "218.JPG"
+width = "500"
+height = "333"
+thumbpath = "218.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "219.JPG"
+width = "500"
+height = "333"
+thumbpath = "219.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "220.JPG"
+width = "500"
+height = "333"
+thumbpath = "220.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "221.JPG"
+width = "500"
+height = "333"
+thumbpath = "221.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "222.JPG"
+width = "500"
+height = "333"
+thumbpath = "222.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "223.JPG"
+width = "500"
+height = "333"
+thumbpath = "223.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "224.JPG"
+width = "500"
+height = "333"
+thumbpath = "224.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "225.JPG"
+width = "500"
+height = "333"
+thumbpath = "225.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "226.JPG"
+width = "500"
+height = "333"
+thumbpath = "226.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "227.JPG"
+width = "500"
+height = "333"
+thumbpath = "227.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "228.JPG"
+width = "500"
+height = "333"
+thumbpath = "228.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "229.JPG"
+width = "500"
+height = "333"
+thumbpath = "229.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "230.JPG"
+width = "500"
+height = "333"
+thumbpath = "230.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "231.JPG"
+width = "500"
+height = "333"
+thumbpath = "231.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "232.JPG"
+width = "500"
+height = "333"
+thumbpath = "232.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "233.JPG"
+width = "500"
+height = "333"
+thumbpath = "233.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "234.JPG"
+width = "500"
+height = "333"
+thumbpath = "234.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "235.JPG"
+width = "500"
+height = "333"
+thumbpath = "235.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "236.JPG"
+width = "500"
+height = "333"
+thumbpath = "236.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "237.JPG"
+width = "500"
+height = "375"
+thumbpath = "237.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "238.JPG"
+width = "500"
+height = "375"
+thumbpath = "238.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "239.JPG"
+width = "375"
+height = "500"
+thumbpath = "239.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "240.JPG"
+width = "375"
+height = "500"
+thumbpath = "240.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "241.JPG"
+width = "500"
+height = "375"
+thumbpath = "241.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "242.JPG"
+width = "500"
+height = "375"
+thumbpath = "242.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "243.JPG"
+width = "500"
+height = "375"
+thumbpath = "243.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "244.JPG"
+width = "500"
+height = "375"
+thumbpath = "244.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "245.JPG"
+width = "500"
+height = "375"
+thumbpath = "245.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "246.JPG"
+width = "468"
+height = "500"
+thumbpath = "246.JPG"
+thumbwidth = "70"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "247.JPG"
+width = "500"
+height = "375"
+thumbpath = "247.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "248.JPG"
+width = "500"
+height = "375"
+thumbpath = "248.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "249.JPG"
+width = "500"
+height = "375"
+thumbpath = "249.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "250.JPG"
+width = "500"
+height = "375"
+thumbpath = "250.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "251.JPG"
+width = "500"
+height = "403"
+thumbpath = "251.JPG"
+thumbwidth = "75"
+thumbheight = "60">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "252.JPG"
+width = "500"
+height = "421"
+thumbpath = "252.JPG"
+thumbwidth = "75"
+thumbheight = "63">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "253.JPG"
+width = "375"
+height = "500"
+thumbpath = "253.JPG"
+thumbwidth = "56"
+thumbheight = "75">
+	<meta name = "description"><![CDATA[OLYMPUS DIGITAL CAMERA         ]]></meta>
+</image>
+
+
+<image
+path = "254.JPG"
+width = "500"
+height = "333"
+thumbpath = "254.JPG"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

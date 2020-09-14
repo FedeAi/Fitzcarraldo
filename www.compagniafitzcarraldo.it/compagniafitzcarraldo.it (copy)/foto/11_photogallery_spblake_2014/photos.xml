@@ -1,0 +1,659 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "Sir Peter Blake - 25 e 26/10/2014">
+	<sitename>Galleria di foto per Web</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSC01822.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01822.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01934.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01934.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01935.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01935.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01940.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01940.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01973.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01973.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01974.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01974.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01982.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01982.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01983.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01983.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01985.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01985.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01990.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01990.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC01994.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC01994.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04612.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04612.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04613.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04613.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04615.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04615.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04647.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04647.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04661.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04661.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04663.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04663.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04666.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04666.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04676.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04676.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04677.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04677.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04686.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04686.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04693.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04693.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04694.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04694.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04695.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04695.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04696.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04696.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04698.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04698.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04701.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04701.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04703.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04703.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04704.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04704.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04705.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04705.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04706.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04706.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04707.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04707.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04711.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04711.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04712.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04712.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04714.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04714.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04720.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04720.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04721.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04721.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04728.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04728.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04734.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04734.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04745.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04745.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04746.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04746.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04747.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04747.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04749.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04749.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04750.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04750.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04769.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04769.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04772.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04772.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04776.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04776.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04782.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04782.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04791.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04791.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04798.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04798.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04801.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04801.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04824.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04824.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04825.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04825.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04840.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04840.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04841.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04841.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04842.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04842.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04844.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04844.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+
+<image
+path = "DSC04845.JPG"
+width = "600"
+height = "450"
+thumbpath = "DSC04845.JPG"
+thumbwidth = "75"
+thumbheight = "56">
+	<meta name = "description"><![CDATA[                               ]]></meta>
+</image>
+
+</images>
+</gallery>
